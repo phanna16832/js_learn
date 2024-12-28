@@ -1,3 +1,8 @@
-const arr  = [1,3,5,5,3,36];
-var arrText = document.createElement("<h1>");
-arrText = arr.push(1)
+let arr = [1,2,3,4]
+ arr.unshift(6); 
+ /* arr.push(6);  */
+
+
+/* arr.pop(); */
+
+console.log(arr)
